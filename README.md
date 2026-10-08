@@ -186,41 +186,44 @@ Pada sub menu ini, pengguna dapat kembali ke menu utama program.
 
 ### Menu Daftar Kelas
 
-<img width="522" height="282" alt="image" src="https://github.com/user-attachments/assets/183c5e60-2844-4d5d-83f1-83f5fbef6bd5" />
+<img width="495" height="280" alt="image" src="https://github.com/user-attachments/assets/bf365e87-171b-42b5-92d8-4b6b65db162c" />
 
-Menu pendaftaran kelas berisi 4 sub menu yaitu lihat, tambah, hapus, dan perbarui daftar kelas yang fungsinya sebagai berikut:
+Menu pendaftaran kelas berisi 5 sub menu yang fungsinya sebagai berikut:
 
-* **1. Lihat Pendaftaran Kelas**
+* **1. Daftar Kelas**
 
-<img width="566" height="323" alt="image" src="https://github.com/user-attachments/assets/d88d4c4d-a8a0-4860-9957-103a3ba1d0eb" />
+<img width="520" height="511" alt="image" src="https://github.com/user-attachments/assets/ea2ea6c1-28e4-43a2-a959-38a620411b28" />
+
+Pada sub menu ini, pengguna dapat mendaftarkan member, instruktur, dan jenis kelas kedalams sebuah sesi kelas. Setelah pendaftaran berhasil, program akan menampilkan output berupa struk sebagai perwujudan dari interface CetakStruk()
+
+* **2. Lihat Pendaftar Kelas**
+
+<img width="527" height="591" alt="image" src="https://github.com/user-attachments/assets/f29abcb4-99e2-4b59-b8fe-936cff57e697" />
 
 Pada sub menu ini, pengguna dapat melihat daftar kelas yang telah terdaftar pada sistem dan siap untuk dilaksanakan pada studio. Data ini berisi identitas member yang melaksanakan kelas, instruktur yang memandu kelas, jenis kelas yang dilaksanakan dan waktunya.
 
-* **2. Pendaftaran Kelas**
+* **3. Update Kelas**
 
-<img width="548" height="251" alt="image" src="https://github.com/user-attachments/assets/263573bb-a879-44cb-a0fa-44b0393695d1" />
-
-Pada sub menu ini, sistem akan menampilkan id member, id instruktur, dan id jenis kelas agar pengguna dapat memilih member, instruktur, dan jenis kelas apa yang ingin ditambahkan. Setelah itu, akan muncul output dimana kelas berhasil ditambahkan dan tertera identitas member, instruktur, dan jenis kelas yang akan dilaksanakan.
-
-* **3. Hapus Kelas**
-
-<img width="557" height="190" alt="image" src="https://github.com/user-attachments/assets/3676ebd4-fba9-4134-8166-c2932b38d4a1" />
-
-Pada sub menu ini, sistem akan mengarahkan pengguna untuk menginput ID kelas yang akan dihapus. Selanjutnya, sistem akan menghapus kelas sesuai dengan ID yang di input oleh pengguna. Sub menu ini dapat digunakan apabila sesi kelas telah selesai dilaksanakan dan member tidak ingin memperpanjang sesi kelas nya kembali.
-
-* **4. Update Kelas**
-
-<img width="537" height="406" alt="image" src="https://github.com/user-attachments/assets/6b2cfdbe-79ba-44f5-b8f4-a87c2797a687" />
+<img width="512" height="297" alt="image" src="https://github.com/user-attachments/assets/68860f4a-15ab-40e7-bcec-270a0cf77127" />
 
 Pada sub menu ini, sistem akan mengarahkan pengguna untuk melakukan update terhadap status kelas yang ada. Update bisa berupa Terjadwal, Selesai, atau Batal. Sub Menu ini berguna untuk memudahkan pengelola dalam menandai status kelas yang telah terdaftar.
 
+Pada sub menu ini, sistem akan mengarahkan pengguna untuk menginput ID kelas yang akan dihapus. Selanjutnya, sistem akan menghapus kelas sesuai dengan ID yang di input oleh pengguna. Sub menu ini dapat digunakan apabila sesi kelas telah selesai dilaksanakan dan member tidak ingin memperpanjang sesi kelas nya kembali.
+
+* **4. Hapus Kelas**
+
+<img width="557" height="522" alt="image" src="https://github.com/user-attachments/assets/f7247310-6943-4a28-bdfe-5905e16bcc73" />
+
+Pada sub menu ini, sistem akan mengarahkan pengguna untuk menginput ID kelas yang akan dihapus. Selanjutnya, sistem akan menghapus kelas sesuai dengan ID yang di input oleh pengguna. Sub menu ini dapat digunakan apabila sesi kelas telah selesai dilaksanakan dan member tidak ingin memperpanjang sesi kelas nya kembali.
+
 * **5. Kembali**
   
-<img width="571" height="347" alt="image" src="https://github.com/user-attachments/assets/56864935-369e-478b-ab72-7100b43ff3c3" />
+<img width="515" height="305" alt="image" src="https://github.com/user-attachments/assets/9301ecec-64de-4fed-a4d4-2997e7d864c7" />
 
 Pada sub menu ini, pengguna dapat kembali ke menu utama program.
   
 ### Menu Keluar dari Program
 
-<img width="557" height="395" alt="image" src="https://github.com/user-attachments/assets/4e76cefa-fdd6-496d-8c36-315a31e06323" />
+<img width="507" height="387" alt="image" src="https://github.com/user-attachments/assets/5d1b1041-55c8-4139-97ec-340e62257c34" />
+
 Pada menu ini, pengguna akan diarahkan untuk keluar dari sistem.

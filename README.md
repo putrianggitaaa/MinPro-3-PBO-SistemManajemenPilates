@@ -12,9 +12,10 @@ Pembagian ini digunakan untuk memisahkan pengelolaan data, proses pengolahan dat
 
 <img width="412" height="610" alt="image" src="https://github.com/user-attachments/assets/1600bd0a-390c-4ccd-bd77-bd395784817a" />
 
-Berikut adalah penjelasan dari masing-masing package dan class yang ada didalam packages tersebut:
+Berikut adalah penjelasan dari masing-masing package yang ada didalam packages tersebut:
 
 ### 1. Package Controller
+
 ### 2. Package Main
 ### 3. Package Model
 ### 4. Package Service
